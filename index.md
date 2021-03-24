@@ -92,7 +92,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Adrián María Mora Carreto
 1. Adrián Pérez de Castro
 1. Adrienne L. Travis
-1. Adrien Plazas (GNOME)
 1. Adrien "PulkoMandy" Destugues
 1. Advaith Madhukar
 1. Agatha Rose
@@ -248,7 +247,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Ben Lewis (Former GNU Octave contributor)
 1. Ben Nied
 1. Ben Rosengart
-1. Ben Sandeen
 1. Ben Werdmuller
 1. Bernhard Hayden
 1. Bert Hubert (founder of PowerDNS)
@@ -1039,7 +1037,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Leon N.
 1. Liam R. Howlett (kernel developer)
 1. Lilly Winfree (Open Knowledge Foundation)
-1. Lily Foster (@lilyinstarlight)
 1. Lina B (elatelation)
 1. Linda Fernández
 1. Lindsay Holmwood (former Vice President of Linux Australia)
@@ -1345,7 +1342,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Paul Moore (Linux Kernel maintainer, libseccomp maintainer)
 1. Paul Oldham
 1. Paul Tagliamonte (Debian Developer and Former Director of the Open Source Initiative)
-1. Paul Visscher (former GNU chief webmaster)
 1. Paul Wankadia
 1. Paul Woolcock
 1. Paul Wouters (Libreswan, Fedora developer)
@@ -1379,7 +1375,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Pierre Dupont
 1. Pierre Marijon
 1. Pierre Ozoux (@pierreozoux)
-1. Pierre-Yves (Solus)
 1. Pierros Papadeas (Board member, Libre Space Foundation)
 1. Pieter De Praetere
 1. Pietro Gagliardi (`andlabs`; currently at Google)
@@ -1586,7 +1581,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Stephane Graber (LXC, former Ubuntu Technical Board member)
 1. Stephanie Whited
 1. Stephan Lachnit (Debian Maintainer)
-1. Stephen Augustus (Co-founder of the Inclusive Naming Initiative, CNCF SIG Contributor Strategy Chair, KubeCon + CloudNativeCon Chair, Kubernetes SIG Release Chair, Dex maintainer)
 1. Stephen A. Goss
 1. Stephen O'Grady
 1. Step Schwarz
@@ -1678,89 +1672,88 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Tux Pacific (NuCypher)
 1. Tyrel Souza
 1. Ujjwal Sharma (Node.js Core Collaborator, TC39, Igalia)
-1. Ulrike Uhlig (Debian Developer)
 1. Ursula Junque (Ubuntu member)
 1. Utku Boduroglu
 1. Vadim Rutkovsky
-1. Vanessa Oxley
-1. Vangelis Katsikaros
-1. Veeti Veteläinen (`Uumas`)
-1. Veronica Cary
-1. Vicky Rampin
-1. Victor Hugo Soliz Kuncar
-1. Victoria "tdfischer" Fierce (Former KDE Multimedia and Phonon-GStreamer maintainer)
-1. Viktoriia Leontieva (Product Designer at GitHub)
-1. Vincent Esche
-1. Vincent Huang Jiahao
-1. Vincent Milum Jr (@DarkainMX)
-1. Vincent Singer (aka cukmekerb)
-1. Vincent Wong
-1. Vincenzo Palazzo (@vincenzopalazzo)
-1. Vipul Gupta
-1. Vipul Siddharth (Fedora Project Contributor)
-1. Vitor "Krammer" Cardoso
-1. Vivek Das Mohapatra (Collabora)
-1. Vivia Nikolaidou (GStreamer)
-1. Vivian Lim (Microsoft)
-1. Vojtěch Vengrin (Gnome translator)
-1. Volkan Yazıcı (Apache Logging Services PMC)
-1. Vyivel
-1. Ward Vandewege (Former FSF staff and FSF member)
-1. Wayne M. Thornton, B.S., CPDT (Co-Founder & Project Manager VIRATRACE)
-1. Wendy Bolm (Chief Operations Officer, CommitChange)
-1. Wendy Seltzer
-1. Werner Mahr
-1. Wes Mason (Ubuntu Community Member and former FSFE Fellow)
-1. Weston Steimel
-1. Wez Furlong
-1. Wheeler Law (Red Hat Inc.)
-1. whitequark
-1. Will Barton
-1. Will Greenberg (EFF, signing in personal capacity)
-1. Will Hawkins
-1. Will Hunt (`Half-Shot`)
-1. William Denton
-1. William D. Jones (`cr1901`)
-1. William Gathoye (Collabora)
-1. William Light (@wrl)
-1. William Kroes
-1. William Starkey
-1. William Theaker (Former FSF staff member)
-1. William Waites (Former FSF member)
-1. William Waites (London School of Hygiene and Tropical Medicine, Former FSF Member)
-1. Williham Williham Totland
-1. Will Lachance (Mozilla)
-1. Wilson "Chilly" Hightower
-1. Wim Taymans (PipeWire, GStreamer)
-1. Wolthera van Hövell (Krita/KDE)
-1. Wulf C. Krueger (Exherbo Linux)
-1. Xabier Rodríguez Calvar
-1. Xavier Claessens (Collabora)
-1. Xavier Tilley
-1. Xavi Francisco
-1. Xav Paice
-1. Yadav Lamichhane
-1. Yangwook Jeong (@Yangeok)
-1. Yann Ramin
-1. Yao Li (former FSF Monthly Student Associate Member)
-1. Yaroslav Kargapolov
-1. Yegor Timoshenko (NixOS contributor)
-1. Yorik van Havre
-1. Youko Omori (Collabora)
-1. Youngbin Han (Ubuntu Korea Community)
-1. Young Hun Kim
-1. Yo Yehudi (Co-founder of Open Life Science)
-1. Yuval Adam
-1. Yuvi Panda (Project Jupyter)
-1. Yu-Wei Wu
-1. Yvan Sraka
-1. Yvonne Lam
-1. Zac Adam-MacEwen (Arcana Labs)
-1. Zach Klippenstein (aka @zach-klippenstein, Square)
-1. Zach Lipton
-1. Zach van Rijn
-1. Zack Cerza
-1. Zeltzin Rodríguez
-1. Zvi Gilboa
-1. Patryk Nogaś (@PatrykNog)
+1. Valerie Aurora (Ada Initiative co-founder)
+2. Vanessa Oxley
+3. Vangelis Katsikaros
+4. Veeti Veteläinen (`Uumas`)
+5. Veronica Cary
+6. Vicky Rampin
+7. Victor Hugo Soliz Kuncar
+8. Victoria "tdfischer" Fierce (Former KDE Multimedia and Phonon-GStreamer maintainer)
+9. Viktoriia Leontieva (Product Designer at GitHub)
+10. Vincent Esche
+11. Vincent Huang Jiahao
+12. Vincent Milum Jr (@DarkainMX)
+13. Vincent Singer (aka cukmekerb)
+14. Vincent Wong
+15. Vincenzo Palazzo (@vincenzopalazzo)
+16. Vipul Gupta
+17. Vipul Siddharth (Fedora Project Contributor)
+18. Vitor "Krammer" Cardoso
+19. Vivek Das Mohapatra (Collabora)
+20. Vivia Nikolaidou (GStreamer)
+21. Vivian Lim (Microsoft)
+22. Vojtěch Vengrin (Gnome translator)
+23. Volkan Yazıcı (Apache Logging Services PMC)
+24. Vyivel
+25. Ward Vandewege (Former FSF staff and FSF member)
+26. Wayne M. Thornton, B.S., CPDT (Co-Founder & Project Manager VIRATRACE)
+27. Wendy Bolm (Chief Operations Officer, CommitChange)
+28. Wendy Seltzer
+29. Werner Mahr
+30. Wes Mason (Ubuntu Community Member and former FSFE Fellow)
+31. Weston Steimel
+32. Wez Furlong
+33. Wheeler Law (Red Hat Inc.)
+34. whitequark
+35. Will Barton
+36. Will Greenberg (EFF, signing in personal capacity)
+37. Will Hawkins
+38. Will Hunt (`Half-Shot`)
+39. William Denton
+40. William D. Jones (`cr1901`)
+41. William Gathoye (Collabora)
+42. William Light (@wrl)
+43. William Kroes
+44. William Starkey
+45. William Theaker (Former FSF staff member)
+46. William Waites (Former FSF member)
+47. William Waites (London School of Hygiene and Tropical Medicine, Former FSF Member)
+48. Williham Williham Totland
+49. Will Lachance (Mozilla)
+50. Wilson "Chilly" Hightower
+51. Wim Taymans (PipeWire, GStreamer)
+52. Wolthera van Hövell (Krita/KDE)
+53. Wulf C. Krueger (Exherbo Linux)
+54. Xabier Rodríguez Calvar
+55. Xavier Claessens (Collabora)
+56. Xavier Tilley
+57. Xavi Francisco
+58. Xav Paice
+59. Yadav Lamichhane
+60. Yangwook Jeong (@Yangeok)
+61. Yann Ramin
+62. Yao Li (former FSF Monthly Student Associate Member)
+63. Yaroslav Kargapolov
+64. Yegor Timoshenko (NixOS contributor)
+65. Yorik van Havre
+66. Youko Omori (Collabora)
+67. Youngbin Han (Ubuntu Korea Community)
+68. Young Hun Kim
+69. Yo Yehudi (Co-founder of Open Life Science)
+70. Yuval Adam
+71. Yuvi Panda (Project Jupyter)
+72. Yu-Wei Wu
+73. Yvan Sraka
+74. Yvonne Lam
+75. Zac Adam-MacEwen (Arcana Labs)
+76. Zach Klippenstein (aka @zach-klippenstein, Square)
+77. Zach Lipton
+78. Zach van Rijn
+79. Zack Cerza
+80. Zeltzin Rodríguez
+81. Zvi Gilboa
 <!-- Do not add your name to the bottom, it needs adding in alphabetical order above -->
